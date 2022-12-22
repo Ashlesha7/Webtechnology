@@ -1,0 +1,30 @@
+h1{
+    background-color: blue;
+    font-size: xx-large;
+    text-decoration-color: rgb(244, 238, 238);
+}
+h2{
+    background-color: coral;
+    font-size: x-large;
+    color: blanchedalmond;
+}
+h3{
+    background-color: darkgreen;
+    font-size: larger;
+    color: rgb(230, 225, 236);
+}
+h4{
+    background-color: chartreuse;
+    font-size: large;
+    color: rgb(237, 238, 238);
+}
+h5{
+    background-color: deeppink;
+    font-size: medium;
+    color: rgb(228, 228, 227);
+}
+h6{
+    background-color: cornflowerblue;
+    font-size: small;
+    color: rgb(225, 232, 225);
+}
