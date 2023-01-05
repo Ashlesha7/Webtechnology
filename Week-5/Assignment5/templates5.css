@@ -1,0 +1,44 @@
+body{
+    overflow: hidden;
+    background-color:rgb(77, 113, 120);
+    color:rgb(254, 254, 254);
+    }
+    
+    h1{
+    font-size: 80px;
+    margin-left: 200px;
+    }
+
+    h2{
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 200px;
+        margin-top: 0.5px;
+    }
+      
+    h3{
+        margin-left: 200px;
+        margin-top: 50px;
+
+    }
+
+    h4{
+    border: 5px solid orange;
+    border-radius: 20px;
+    margin: 10px 5px;
+    padding: 20px 5px;
+    text-decoration: unset;
+    background-color: orange;
+    text-align: center;
+    width: fit-content;
+    font-size: 20px;
+    color: black;
+    margin-left: 200px;
+    margin-top: 60px;
+    }
+    
+    img{
+        max-width: 40%;
+        margin-left: 938px;
+        margin-top: -625px ;
+        height: 115vh;
+    }
