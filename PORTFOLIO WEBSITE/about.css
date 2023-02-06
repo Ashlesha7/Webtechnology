@@ -1,0 +1,26 @@
+body{
+    overflow: hidden;
+    background-color:rgb(55, 164, 108);
+    color:rgb(254, 254, 254);
+    }
+    
+    h1{
+        font-size: 80px;
+        margin-left: 125px;
+    }
+
+    h2{
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 15px;
+        margin-top: 0.5px;
+    }
+      p{
+        font-size: 20px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      }
+    img{
+        max-width: 40%;
+        margin-left: 940px;
+        margin-top: -390px ;
+        height: 115vh;
+    }

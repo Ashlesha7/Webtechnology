@@ -1,0 +1,38 @@
+.center .btns{
+    margin-top: 20px;
+}
+.center .btns button{
+    height: 55px;
+    width: 170px;
+    border-radius: 5px;
+    border: none;
+    margin: 0 10px;
+    border: 2px solid #fff;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 0 10px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+.center .btns button{
+    color: #fff;
+    background: none;
+}
+.center .btns button:hover{
+    background: #fff;
+    color: #000;
+}
+.container .card .face.face2 .content a{
+    margin: 15px 0 0;
+    display:  inline-block;
+    text-decoration: none;
+    font-weight: 900;
+    color: #333;
+    padding: 5px;
+    border: 1px solid #333;
+}
+
+.container .card .face.face2 .content a:hover{
+    background: #333;
+    color: #fff;
+}
